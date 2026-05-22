@@ -1,0 +1,17 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Virtual env
+venv/
+.venv/
+
+#cache 
+__pycache__/
+*.pyc
+
+#env vars
+.env
+
+#db files
+*.db
+
+#macOS 
+.DS_Store
